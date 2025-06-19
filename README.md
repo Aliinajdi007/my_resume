@@ -1,5 +1,5 @@
 # Ali's Responsive Portfolio
-
+preview : https://aliinajdi007.github.io/my_resume.github.io/
 Welcome to my personal portfolio website! This project showcases my work, skills, and experience as a web developer.
 
 - Fully responsive design for all devices
